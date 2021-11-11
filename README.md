@@ -1,7 +1,7 @@
 :bulb: Visitar perfil en [Perfil Noelia Rguez Hdez](https://github.com/NoeliaRguezHdez)  
 # Noelia Rodríguez Hernández
 ## Repositorio de inicio
-__*alu0100595420*_``_
+__*alu0100595420*__
 ### *Formación* 
 1. Graduada en Ingeniería Electrónica Industrial y Automática
 2. Máster en Ingeniería Industrial
